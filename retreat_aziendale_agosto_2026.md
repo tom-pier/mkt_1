@@ -1,91 +1,98 @@
 # Retreat aziendale — 27→29 agosto 2026 (2 notti)
 
-Ricerca location per un retreat di **~10 persone**, check-in **27/8**, check-out **29/8**.
+Ricerca location per un retreat di **~10 persone**, check-in **27/8 (giovedì)**, check-out **29/8 (sabato)**.
 
-## Criteri
+## Criteri (aggiornati con le preferenze)
 **Requisiti obbligatori**
 - 🌐 Adatto allo smart working (buona connessione internet)
 - 🏊 Piscina
 - 🛏️ Camere con letti singoli
 
-**Preferenze**
-- 📍 Provincia di Pesaro-Urbino; al massimo provincia di Ancona ma solo vicino a Senigallia
-- 🚆 Facile da raggiungere in treno
+**Preferenze confermate**
+- 💶 Budget indicativo **€50-100 a persona / notte** (pernottamento)
+- 🏡 **Casale in uso esclusivo** preferito, ma **resort va bene**
+- 🚆 Facile in treno, ma **ok breve transfer** (alcuni arrivano in auto)
+- 📍 Provincia di Pesaro-Urbino; max Ancona ma solo vicino a Senigallia
+- 🍽️ Extra gradito: colazione e pasti in loco
 
-**Extra graditi**
-- 🍽️ Colazione e pasti in loco
-
-> Nota treni: la linea Adriatica (Bologna–Ancona) ferma a **Pesaro, Fano, Marotta-Mondolfo e Senigallia** → sono queste le zone "facili in treno". **Urbino e l'entroterra non hanno stazione** (serve bus/taxi dalla costa).
+> ⚠️ **Attenzione stagionalità**: ad agosto molti casali/agriturismi accettano **solo soggiorni settimanali** (es. Ca' Ramarra sab→sab; Il Casale pensione completa solo settimanale). Per 2 notti giovedì-sabato conviene privilegiare strutture che **prenotano a notte** (country house / resort / hotel). Da verificare struttura per struttura.
+>
+> Nota treni: la linea Adriatica ferma a **Pesaro, Fano, Marotta-Mondolfo, Senigallia**. Urbino e l'entroterra non hanno stazione (transfer in auto/bus).
 
 ---
 
-## Shortlist
+## Shortlist finale (ordinata per aderenza ai tuoi criteri)
 
-### 1. 🏡 Agriturismo Ca' Ramarra — Fosso Sejore, Fano (PU) — *scelta top per "casale in uso esclusivo"*
-Casale del 1798 tra le colline e il mare, affittabile **in uso esclusivo**, esplicitamente proposto per *gruppi di lavoro, seminari e stage*.
-- **Treno**: ~6 km dalle stazioni di **Fano** e **Pesaro** (breve taxi/transfer). 800 m dal mare.
-- **Piscina**: sì, grande, riservata agli ospiti.
-- **Letti singoli**: sì — camera con 3-4 letti singoli + camere doppie (le doppie sono configurabili a due letti); **13 posti letto totali**.
-- **WiFi**: presente (⚠️ da verificare la banda per 10 persone in videocall contemporanee).
-- **Pasti**: **cuoco a domicilio** su richiesta; i titolari gestiscono anche un ristorante sulla spiaggia (Bagnacciuga). No colazione "da hotel" inclusa di default → da concordare.
-- **Contatti**: WhatsApp 346 0936815 / 339 5664696 / 338 8660553 — sito caramarra.it
-- **Perché sì**: unico che mette insieme *in provincia di PU + vicino al treno + piscina in uso esclusivo + letti singoli + vibe "retreat"*.
-- **Da confermare**: configurazione esatta letti singoli per 10, pacchetto pasti, banda internet, disponibilità 27-29/8, prezzo.
+### 1. 🌿 Il Pignocco Country House — Santa Veneranda, Pesaro (PU) — *miglior equilibrio*
+Casale del '700 sulle colline sopra Pesaro, aperto tutto l'anno, che **accoglie esplicitamente gruppi aziendali**.
+- **Prenotazione a notte** ✅ (base B&B) → ok per 2 notti.
+- 💶 **da €80/notte** → dentro budget.
+- 🚆 Sulle colline dietro Pesaro → **~10 min dalla stazione di Pesaro** (breve transfer).
+- 🏊 Piscina (+ idromassaggio tra gli ulivi) · 🌐 WiFi + rete cablata, A/C · 🍽️ colazione abbondante inclusa.
+- 🛏️ Camere e mini-appartamenti; alcune sistemazioni prevedono **letti singoli** in aggiunta → da confermare config per 10.
+- 🔗 ilpignocco.it
+- **Da confermare**: 10 posti in letti singoli, uso esclusivo del gruppo, cena/pasti oltre la colazione, banda WiFi, disponibilità 27-29/8.
 
-### 2. 🏨 Hotel 3★ a Fano (PU) — *massima affidabilità, in provincia*
-Diversi hotel fronte mare con **piscina** e **mezza/pensione completa**, a breve distanza da stazione e centro (es. Hotel Corallo e altri su alberghi.it / Tripadvisor).
-- **Treno**: stazione di **Fano** centrale (a piedi / pochi minuti).
-- **Piscina**: sì (verificare per singola struttura).
-- **Letti singoli**: **garantiti** prenotando ~5 camere doppie/twin (= 2 letti singoli).
-- **WiFi**: sì.
-- **Pasti**: **colazione + mezza/pensione completa** incluse.
-- **Perché sì**: zero pensieri su letti singoli, pasti e arrivo in treno; resta in provincia di PU.
-- **Da confermare**: piscina della struttura scelta, disponibilità gruppo 27-29/8, prezzo, spazio comune per lavorare.
+### 2. 🫒 Agriturismo Monte Giove – Villa Mariotti — Fano (PU) — *in provincia, vicino a Fano*
+Tenuta di 10 ettari con 3 corpi di un'antica villa, collina a 5 km da Fano e dal mare. Voto ospiti 9.1.
+- **Prenotazione a notte** ✅ (su Booking). 7 camere (anche family) → configurabili per ~10-14.
+- 🚆 5 km da **Fano** → breve transfer · 🏊 grande piscina + 2 jacuzzi · 🌐 WiFi gratuito · 🍽️ colazione a buffet (pasti/mezza pensione da chiedere) · ascensore e parcheggio.
+- 📍 Via Flaminia 124, Fano.
+- **Da confermare**: letti singoli per 10, mezza pensione, uso esclusivo dei 3 corpi, prezzo, disponibilità.
 
-### 3. 🏨 Hotel 3★ a Senigallia (AN) — *limite sud consentito, ottimo per il treno*
-Es. **Hotel Trieste** (piscina, WiFi, mezza/pensione completa, 54 camere) e **Hotel Prestigio** (piscina, ristorante, mezza pensione da ~€44 p.p., 300 m dal mare / 200 m dal centro).
-- **Treno**: stazione di **Senigallia** centrale e molto ben collegata.
-- **Piscina**: sì. **Letti singoli**: garantiti via camere twin. **WiFi**: sì. **Pasti**: inclusi.
-- **Perché sì**: la combinazione più semplice tra *treno + letti singoli + pasti*.
-- **Da confermare**: disponibilità 27-29/8, prezzo, sala/spazio per co-working.
+### 3. 🏡 Agriturismo Ca' Ramarra — Fosso Sejore, Fano (PU) — *il casale "tutto per voi" ideale, ma verificare le 2 notti*
+Casale del 1798 in uso esclusivo, proposto per *gruppi di lavoro e seminari*. Sul piano funzionalità è il più centrato.
+- 🚆 6 km da **Fano/Pesaro** (breve transfer), 800 m dal mare · 🏊 piscina esclusiva · 🛏️ **letti singoli sì** (2 camere con letti singoli + doppie, 13 posti) · 🌐 WiFi · 🍽️ **cuoco a domicilio** su richiesta.
+- ⚠️ In alta stagione risulta affittarsi **a settimana (sab→sab)** → chiedere esplicitamente se accetta **2 notti (gio-sab)** a fine agosto. Caparra 25% + cauzione €300.
+- 📞 WhatsApp 346 0936815 / 339 5664696 / 338 8660553 · caramarra.it
 
-### 4. 🍷 Tenuta Santi Giacomo e Filippo (Urbino Resort) — PU — *il vero "working retreat", ma con transfer*
-Borgo del '700 ristrutturato: **33 camere, ristorante, piscina, spa e 2 sale meeting (30-110 posti)**, affittabile **in uso esclusivo**.
-- **Treno**: ⚠️ **Urbino non ha stazione** — ~20 km dalla costa, transfer in bus/taxi da Pesaro (~40 min).
-- **Piscina**: sì. **WiFi**: sì (resort). **Letti singoli**: configurabili (33 camere) — da confermare. **Pasti**: ristorante interno.
-- **Perché sì**: la migliore infrastruttura per lavorare (sale meeting dedicate + catering + spa) se si accetta il transfer.
-- **Da confermare**: camere a letti singoli, disponibilità, prezzo.
+### 4. 🍷 Tenuta Santi Giacomo e Filippo (Urbino Resort) — Urbino (PU) — *il vero working-retreat*
+Borgo del '700: **33 camere, ristorante, piscina, spa e 2 sale meeting**, affittabile in uso esclusivo.
+- **Prenotazione a notte** ✅. 💶 camera da ~€110-130/notte → **leggermente sopra il tetto di €100**, ma per un gruppo si può chiedere un pacchetto/mezza pensione dedicato.
+- 🚆 ⚠️ Urbino senza stazione: **~40 min di transfer** da Pesaro (ok, viaggiate anche in auto) · 🏊 piscina · 🌐 WiFi · 🍽️ ristorante interno · 🧘 spa + sale meeting.
+- 📞 +39 0722 580305 · tenutasantigiacomoefilippo.it
+- **Perché sì**: se volete sale riunioni dedicate + spa e non vi spaventa il transfer. **Da confermare**: camere a letti singoli, prezzo entro/vicino budget, disponibilità.
+
+### 🔁 Piano B "zero rischi" — Hotel 3★ a Fano (PU) o Senigallia (AN)
+Se le country house non confermano letti singoli/2 notti: hotel con **piscina + mezza pensione**, camere twin (= 2 letti singoli **garantiti**), WiFi, a pochi passi dalla stazione. Mezza pensione **da ~€44-70 p.p.** → pienamente in budget. (Es. Senigallia: Hotel Trieste, Hotel Prestigio.)
 
 ---
 
 ## Tabella comparativa
 
-| Struttura | Zona (prov.) | 🚆 Treno | 🏊 Piscina | 🛏️ Letti singoli | 🌐 WiFi | 🍽️ Pasti | Uso esclusivo |
-|---|---|---|---|---|---|---|---|
-| **Ca' Ramarra** | Fano (PU) | 6 km da Fano/Pesaro | ✅ esclusiva | ✅ (+ doppie twin) | ✅ da verif. banda | Cuoco su richiesta | ✅ Sì |
-| **Hotel Fano** | Fano (PU) | ✅ centrale | ✅ | ✅ camere twin | ✅ | ✅ inclusi | ❌ (hotel) |
-| **Hotel Senigallia** | Senigallia (AN) | ✅ centrale | ✅ | ✅ camere twin | ✅ | ✅ inclusi | ❌ (hotel) |
-| **Tenuta S. Giacomo** | Urbino (PU) | ⚠️ transfer ~40 min | ✅ | ✅ da conf. | ✅ | ✅ ristorante | ✅ Sì |
+| Struttura | Zona (prov.) | Prenota a notte | 🚆 Accesso | 🏊 Piscina | 🛏️ Letti singoli | 🌐 WiFi | 🍽️ Pasti | 💶 In budget | Uso esclusivo |
+|---|---|---|---|---|---|---|---|---|---|
+| **Il Pignocco** | Pesaro (PU) | ✅ Sì | ~10 min da Pesaro | ✅ | ⚠️ da conf. | ✅ | Colazione (+?) | ✅ da €80 | da chiedere |
+| **Monte Giove** | Fano (PU) | ✅ Sì | 5 km da Fano | ✅ +jacuzzi | ⚠️ da conf. | ✅ | Colazione (+?) | ✅ prob. | da chiedere |
+| **Ca' Ramarra** | Fano (PU) | ⚠️ settimanale? | 6 km da Fano/Pesaro | ✅ esclusiva | ✅ | ✅ | Cuoco su richiesta | ✅ prob. | ✅ Sì |
+| **Tenuta S. Giacomo** | Urbino (PU) | ✅ Sì | ⚠️ transfer ~40′ | ✅ | ⚠️ da conf. | ✅ | ✅ ristorante | ⚠️ borderline | ✅ Sì |
+| **Hotel Fano/Senigallia** | PU / AN | ✅ Sì | ✅ a piedi | ✅ | ✅ garantiti | ✅ | ✅ mezza pens. | ✅ | ❌ (hotel) |
 
-*Altre valutate ma meno adatte:* **Naturaverde Country House** (Senigallia — solo 4 camere, letti matrimoniali, ~8 posti) e **La Maggiolina** (Montelabbate — mini-appartamenti, unità piccole) → non ideali per 10 persone a letti singoli.
+*Scartate*: Naturaverde (Senigallia, solo 4 camere matrimoniali), La Maggiolina (mini-appartamenti piccoli), Il Casale/Il Falco (entroterra lontano + pensione settimanale).
 
 ---
 
-## In sintesi
-- **Vuoi il "casale in uso esclusivo", in provincia di PU e vicino al treno** → **Ca' Ramarra** (da confermare letti singoli e pasti).
-- **Vuoi zero pensieri su letti singoli + pasti + arrivo a piedi dalla stazione** → **Hotel a Fano** (in provincia) o **Senigallia**.
-- **Vuoi un vero working-retreat con sale meeting e spa** e accetti ~40 min di transfer → **Tenuta Santi Giacomo e Filippo**.
+## Le 3 cose da verificare con ogni struttura (in ordine)
+1. **Disponibilità 27-29/8 per 2 notti** (non settimanale) — il filtro più stringente ad agosto.
+2. **10 posti in letti singoli** (camere twin / doppie con 2 letti) — requisito duro, i casali tendono al matrimoniale.
+3. **Banda WiFi reale** per ~10 persone in videochiamata contemporanea + eventuale **mezza pensione**.
 
-## Prossimi step
-1. Definire budget a persona/notte e tipologia preferita (casale vs hotel vs resort).
-2. Contattare le 2-3 strutture prescelte per **verificare disponibilità 27-29/8, configurazione letti singoli, banda WiFi e pacchetto pasti**.
-3. Bloccare l'opzione migliore.
+## Testo pronto da inviare (email/WhatsApp)
+> **Oggetto: Disponibilità retreat aziendale 27-29 agosto (2 notti, ~10 persone)**
+>
+> Buongiorno, stiamo organizzando un retreat aziendale per **circa 10 persone dal 27 al 29 agosto (2 notti, check-out il 29)**. Vorremmo verificare disponibilità e un preventivo. Ci servono in particolare:
+> - ~10 posti letto in camere con **letti singoli** (o matrimoniali uso doppia/twin);
+> - **WiFi adatto allo smart working** (lavoreremo dalla struttura, anche in videocall) — potete indicarci la velocità/banda?;
+> - utilizzo della **piscina**;
+> - se possibile **colazione e pasti** (mezza/pensione completa o cuoco).
+>
+> Alcuni arriveranno in auto, altri in treno. Potete confermarci: 1) disponibilità per quelle date (2 notti, non settimanale); 2) configurazione letti singoli per 10; 3) tariffe (pernottamento + eventuale mezza/pensione completa); 4) se è possibile l'**uso esclusivo** per il gruppo? Grazie mille — [Nome, azienda, telefono]
 
 ## Fonti
+- Il Pignocco Country House: https://www.ilpignocco.it/en/home/ — https://www.agriturismo.farm/en/farm-holidays/marches/il-pignocco-country-house-pesaro/32487
+- Agriturismo Monte Giove – Villa Mariotti: https://www.agriturismo.com/dettaglioAgriturismo.asp?idLingua=1&id=4775 — https://www.booking.com/hotel/it/agriturismo-monte-giove-fano.nl.html
 - Agriturismo Ca' Ramarra: https://www.caramarra.it/ — https://www.agriturismo.it/it/agriturismi/marche/pesaro_e_urbino/CaRamarra-0370545/index.html
-- Hotel con piscina Fano (Tripadvisor): https://www.tripadvisor.it/Hotels-g194759-zfa3-Fano_Province_of_Pesaro_and_Urbino_Marche-Hotels.html — Hotel a Fano mezza pensione: https://www.alberghi.it/marche/fano/pensione-completa
-- Hotel con piscina / mezza pensione Senigallia: https://www.alberghi.it/marche/senigallia/piscina — https://www.alberghi.it/marche/senigallia/mezza-pensione
-- Tenuta Santi Giacomo e Filippo (Urbino Resort): https://www.tenutasantigiacomoefilippo.it/en/ — https://www.meetinglocation.it/ville-storiche/urbino-resort-tenuta-santi-giacomo-e-filippo_3366_l.html
-- Naturaverde Country House (Senigallia): https://www.tripadvisor.com/Hotel_Review-g194914-d12795371-Reviews-Naturaverde_Country_House-Senigallia_Province_of_Ancona_Marche.html
+- Tenuta Santi Giacomo e Filippo (Urbino Resort): https://www.tenutasantigiacomoefilippo.it/en/ — https://www.tripadvisor.com/Hotel_Review-g187797-d1108294-Reviews-Tenuta_Santi_Giacomo_e_Filippo-Urbino_Province_of_Pesaro_and_Urbino_Marche.html
+- Hotel con piscina/mezza pensione Senigallia: https://www.alberghi.it/marche/senigallia/piscina — Fano: https://www.tripadvisor.it/Hotels-g194759-zfa3-Fano_Province_of_Pesaro_and_Urbino_Marche-Hotels.html
 
-*Documento generato come supporto all'organizzazione — disponibilità e prezzi da confermare direttamente con le strutture.*
+*Disponibilità e prezzi da confermare direttamente con le strutture.*
