@@ -53,8 +53,31 @@ Borgo del '700: **33 camere, ristorante, piscina, spa e 2 sale meeting**, affitt
 - 📞 +39 0722 580305 · tenutasantigiacomoefilippo.it
 - **Perché sì**: se volete sale riunioni dedicate + spa e non vi spaventa il transfer. **Da confermare**: camere a letti singoli, prezzo entro/vicino budget, disponibilità.
 
-### 🔁 Piano B "zero rischi" — Hotel 3★ a Fano (PU) o Senigallia (AN)
-Se le country house non confermano letti singoli/2 notti: hotel con **piscina + mezza pensione**, camere twin (= 2 letti singoli **garantiti**), WiFi, a pochi passi dalla stazione. Mezza pensione **da ~€44-70 p.p.** → pienamente in budget. (Es. Senigallia: Hotel Trieste, Hotel Prestigio.)
+### 🔁 Piano B "zero rischi" — Hotel con piscina + mezza pensione
+Se le country house non confermano letti singoli/2 notti: hotel con **piscina + mezza pensione**, camere twin (= 2 letti singoli **garantiti**), WiFi, a pochi passi dalla stazione. **Prenotano a notte → le 2 notti non sono un problema.** Elenco completo qui sotto.
+
+---
+
+## 🏨 Elenco hotel (piano B / alternativa affidabile)
+Vantaggi hotel: **letti singoli garantiti** (camere twin) · **pasti inclusi** (mezza/pensione completa) · **a piedi dalla stazione** · prenotano a notte.
+
+**Senigallia (AN)** — stazione centrale, molto ben collegata
+- **Hotel Trieste 3★** — piscina, WiFi, mezza/pensione completa, palestra, giardino, ampi spazi comuni; ~10 min a piedi (<5 in auto) dalla stazione. Buono per il gruppo. → hoteltriestesenigallia.com
+- **Hotel Prestigio 3★** — piscina, ristorante, 300 m dal mare / 200 m dal centro. Mezza pensione **€44-89 p.p.** (min 2 notti) → ottimo budget.
+
+**Fano (PU)** — in provincia, stazione centrale
+- **Hotel Corallo 3★** — piscina con idromassaggio, WiFi gratis, parcheggio, fronte mare, mezza pensione tutto l'anno. → hotelcorallo-fano.it
+- **Hotel Casadei 3★** — fronte mare, mezza pensione.
+- **TAG Hotel** (business) — sale meeting/congressi, WiFi, ristorante, area wellness → adatto al lato "lavoro" (piscina/wellness da verificare).
+- **Hotel Elisabeth Due 4★** — fronte spiaggia, ben valutato.
+
+**Pesaro (PU)** — stazione centrale
+- **Villa Cattani Stuart 4★** — villa storica del '700 con parco **e piscina**, 30+ anni di eventi/congressi aziendali → **il più "retreat aziendale" tra gli hotel** (verifica budget). → villacattanistuart.it
+- **Hotel Caesar 3★** — piscina, mezza pensione (colazione+cena), fronte mare a 10 min dal centro.
+- **Hotel Lungomare N. Sauro 3★** — piscina, WiFi, ristorante vista mare; doppia **da €40 p.p.** in B&B → molto economico.
+- **Hotel Delle Nazioni 4★** (business) — sala meeting fino a 30, WiFi ad alta velocità, ristorante → ottimo per lavorare (piscina da verificare).
+
+💡 **Per un retreat "che lavora"** il combo ideale è **piscina + sala meeting + buon WiFi**: spiccano **Villa Cattani Stuart** (Pesaro, piscina + sale confermate) e, versante spiaggia/relax, **Hotel Trieste** (Senigallia, tanti spazi comuni). I business hotel (Delle Nazioni, TAG) hanno sale e WiFi top ma la piscina va confermata.
 
 ---
 
@@ -93,6 +116,8 @@ Se le country house non confermano letti singoli/2 notti: hotel con **piscina + 
 - Agriturismo Monte Giove – Villa Mariotti: https://www.agriturismo.com/dettaglioAgriturismo.asp?idLingua=1&id=4775 — https://www.booking.com/hotel/it/agriturismo-monte-giove-fano.nl.html
 - Agriturismo Ca' Ramarra: https://www.caramarra.it/ — https://www.agriturismo.it/it/agriturismi/marche/pesaro_e_urbino/CaRamarra-0370545/index.html
 - Tenuta Santi Giacomo e Filippo (Urbino Resort): https://www.tenutasantigiacomoefilippo.it/en/ — https://www.tripadvisor.com/Hotel_Review-g187797-d1108294-Reviews-Tenuta_Santi_Giacomo_e_Filippo-Urbino_Province_of_Pesaro_and_Urbino_Marche.html
-- Hotel con piscina/mezza pensione Senigallia: https://www.alberghi.it/marche/senigallia/piscina — Fano: https://www.tripadvisor.it/Hotels-g194759-zfa3-Fano_Province_of_Pesaro_and_Urbino_Marche-Hotels.html
+- Hotel Senigallia (Trieste/Prestigio): https://www.hoteltriestesenigallia.com/ — https://www.alberghi.it/marche/senigallia/piscina
+- Hotel Fano (Corallo/Casadei/TAG/Elisabeth): https://www.hotelcorallo-fano.it/ — https://www.alberghi.it/marche/fano/4-stelle
+- Hotel Pesaro (Villa Cattani Stuart/Caesar/N. Sauro/Delle Nazioni): https://www.alberghi.it/marche/pesaro/mezza-pensione — https://www.eventiaziendali.it/it/locations/hotel-4-stelle/pesaro-urbino
 
 *Disponibilità e prezzi da confermare direttamente con le strutture.*
