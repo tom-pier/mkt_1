@@ -100,16 +100,27 @@ Vantaggi hotel: **letti singoli garantiti** (camere twin) · **pasti inclusi** (
 2. **10 posti in letti singoli** (camere twin / doppie con 2 letti) — requisito duro, i casali tendono al matrimoniale.
 3. **Banda WiFi reale** per ~10 persone in videochiamata contemporanea + eventuale **mezza pensione**.
 
-## Testo pronto da inviare (email/WhatsApp)
-> **Oggetto: Disponibilità retreat aziendale 27-29 agosto (2 notti, ~10 persone)**
+## Email pronta da inviare
+> **Oggetto:** Richiesta informazioni — ritiro aziendale 27-29 agosto (circa 10-13 persone)
 >
-> Buongiorno, stiamo organizzando un retreat aziendale per **circa 10 persone dal 27 al 29 agosto (2 notti, check-out il 29)**. Vorremmo verificare disponibilità e un preventivo. Ci servono in particolare:
-> - ~10 posti letto in camere con **letti singoli** (o matrimoniali uso doppia/twin);
-> - **WiFi adatto allo smart working** (lavoreremo dalla struttura, anche in videocall) — potete indicarci la velocità/banda?;
-> - utilizzo della **piscina**;
-> - se possibile **colazione e pasti** (mezza/pensione completa o cuoco).
+> Gentili,
+> mi presento: sono Tommaso [Cognome], di [Azienda]. Vi scrivo perché sto valutando l'organizzazione di un ritiro aziendale di due giorni e due notti, indicativamente **dal 27 al 29 agosto (con check-out il 29/08)**, e la vostra struttura ci è parsa davvero bella.
 >
-> Alcuni arriveranno in auto, altri in treno. Potete confermarci: 1) disponibilità per quelle date (2 notti, non settimanale); 2) configurazione letti singoli per 10; 3) tariffe (pernottamento + eventuale mezza/pensione completa); 4) se è possibile l'**uso esclusivo** per il gruppo? Grazie mille — [Nome, azienda, telefono]
+> Vorrei chiedervi qualche informazione:
+> - Ospitate volentieri gruppi di questo tipo? Saremmo **circa 10-13 persone**, con la necessità di **letti separati/singoli** (al massimo un letto matrimoniale, per una coppia che lavora con noi); eventuali camere condivise non sono un problema.
+> - Durante il soggiorno **lavoreremo e faremo alcune presentazioni**: ci servirebbe quindi una **connessione internet veloce e affidabile** (anche per videochiamate). Potete indicarci com'è la copertura/velocità?
+> - Sarebbe possibile l'**utilizzo della piscina** e, se disponibile, la **colazione**?
+> - Per i **pasti**: c'è la possibilità di cucinare autonomamente, oppure possiamo organizzarci con un eventuale ristorante interno o convenzionato?
+>
+> Preciso che si tratta per ora di **richieste esplorative** — non abbiamo ancora definito tutti i dettagli — ma vorremmo iniziare a orientarci e a raccogliere qualche preventivo.
+>
+> Vi ringrazio molto in anticipo e resto in attesa di un vostro riscontro.
+>
+> Un cordiale saluto,
+> Tommaso [Cognome] — [Azienda]
+> [telefono] · [email]
+
+*Nota: date impostate al 27-29 agosto (retreat in oggetto). Il testo WhatsApp originale citava il 3-5 settembre: verificare quali date usare prima dell'invio.*
 
 ## Fonti
 - Il Pignocco Country House: https://www.ilpignocco.it/en/home/ — https://www.agriturismo.farm/en/farm-holidays/marches/il-pignocco-country-house-pesaro/32487
